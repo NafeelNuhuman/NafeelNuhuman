@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:185FA5&height=140&section=header&text=Mohamed%20Nafeel&fontSize=38&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:185FA5&height=140&section=header&text=Nafeel%Nuhuman&fontSize=38&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=185FA5&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Engineer;4%2B+years+building+scalable+systems;Exploring+AI+%26+LLM+applications)](https://git.io/typing-svg)
 
